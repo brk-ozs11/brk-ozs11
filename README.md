@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate IOS developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brk-ozs11" alt="brk-ozs11" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brk-ozs11&label=Profile%20views&color=0e75b6&style=flat" alt="brk-ozs11" /> </p>
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -16,4 +16,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/berkozus117"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/berkozus117" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brk-ozs11&show_icons=true&locale=en&layout=compact" alt="brk-ozs11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brk-ozs11&show_icons=true&locale=en&layout=compact" alt="brk-ozs11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brk-ozs11&show_icons=true&locale=en" alt="brk-ozs11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brk-ozs11&" alt="brk-ozs11" /></p>
