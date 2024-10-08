@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEvRVDSujkSrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726411437346?e=1733961600&v=beta&t=whvF-RqgNh6nVII_RoolRTkHhxPXER81Q3ic-6W8UrU)
 
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">I'm Software Developer</h3>
+<h3 align="center">I'm Software Developer and Aviator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brk-ozs11&label=Profile%20views&color=0e75b6&style=flat" alt="brk-ozs11" /> </p>
 
