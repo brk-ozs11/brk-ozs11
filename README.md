@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEvRVDSujkSrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726411437346?e=1733961600&v=beta&t=whvF-RqgNh6nVII_RoolRTkHhxPXER81Q3ic-6W8UrU)
+
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">I'm Software Developer</h3>
 
