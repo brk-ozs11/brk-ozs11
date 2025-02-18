@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [IFConnect](https://github.com/brk-ozs11/IFConnect.git)
 
-- 🌱 I’m currently learning **WordPress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
